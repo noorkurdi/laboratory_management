@@ -1,0 +1,4 @@
+enum LoadingEnum {
+  loading,
+  loaded,
+}

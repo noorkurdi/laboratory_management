@@ -1,0 +1,4 @@
+enum AddingType {
+  addGroup,
+  addAccount,
+}
